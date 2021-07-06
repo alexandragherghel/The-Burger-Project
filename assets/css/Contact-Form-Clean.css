@@ -1,0 +1,243 @@
+.alert{
+  display: none;
+}
+
+.contact-clean {
+  background: #ffffff;
+  padding: 80px 0;
+}
+
+@media (max-width:767px) {
+  .contact-clean {
+    padding: 20px 0;
+  }
+}
+
+.contact-clean form {
+  max-width: 480px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  color: #505e6c;
+  padding-top: 0px;
+}
+
+@media (max-width:767px) {
+  .contact-clean form {
+    padding: 30px;
+    height: 100vh;
+  }
+}
+
+.contact-clean h2 {
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 36px;
+  color: inherit;
+}
+
+.contact-clean .form-group:last-child {
+  margin-bottom: 5px;
+}
+
+.contact-clean form .form-control {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
+  outline: none;
+  color: inherit;
+  padding-left: 12px;
+  height: 42px;
+}
+
+.contact-clean form .form-control:focus {
+  border: 1px solid #b2b2b2;
+}
+
+.contact-clean form textarea.form-control {
+  min-height: 100px;
+  max-height: 260px;
+  padding-top: 10px;
+  resize: vertical;
+}
+
+.contact-clean form .btn {
+  padding: 16px 32px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  line-height: 1;
+  outline: none !important;
+}
+
+.contact-clean form .btn:hover {
+  opacity: 1;
+}
+
+.contact-clean form .btn:active {
+  transform: translateY(1px);
+}
+
+.contact-clean form .btn-primary {
+  background-color: #055ada !important;
+  margin-top: 15px;
+  color: #fff;
+}
+
+.contact-clean {
+  height: 95vh;
+  padding-top: 85px;
+}
+
+.send-btn {
+  color: black;
+  background-color: rgb(230,230,230)!important;
+  border-radius: 0px;
+}
+
+#success-sent {
+  opacity: 1;
+  margin-bottom: 0px;
+}
+
+#btn-login {
+  margin-top: 130px;
+  width: 129px;
+}
+
+.nav-link.menu-pill-link {
+  color: black;
+}
+
+#navpills-fixedmenu {
+  font-size: 13px;
+  scroll-snap-align: start;
+}
+
+.navbar.navbar-light.navbar-expand.navbar-pills-menu {
+  margin-top: 70px;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 4px 2px -2px rgba(0,0,0,0.15);
+}
+
+.menu-pill-cont {
+  border-bottom: 2px solid rgb(239,239,239) ;
+}
+
+.menu-icon-category {
+  padding-bottom: 0px;
+  align-self: flex-start!important;
+  padding-right: 10px;
+}
+
+.menu-item-details {
+  padding-left: 15px;
+  flex-grow: 1;
+  padding-right: 10px;
+  flex-shrink: 1;
+  padding-right: 15px;
+}
+
+.btn.btn-primary.plus-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.btn.btn-primary.icon-cont {
+  background-color: white;
+  color: black;
+  border: 0px;
+}
+
+.menu-add-div {
+  flex-grow: 0;
+  margin-left: 10px;
+  flex-shrink: 1;
+}
+
+.menu-icon-cat.icon-burger {
+  background: url("../../assets/img/Icons/products/hamburger.svg") center / cover no-repeat;
+}
+
+.menu-icon-cat.icon-pizza {
+  background: url("../../assets/img/Icons/products/pizza-slice.svg") center / cover no-repeat;
+}
+
+.menu-icon-cat.icon-dessert {
+  background: url("../../assets/img/Icons/products/ice-bar.svg") center / cover no-repeat;
+}
+
+.menu-icon-cat.icon-drink {
+  background: url("../../assets/img/Icons/products/cocktail.svg") center / cover no-repeat;
+}
+
+.navbar-brand.brand-collapsed {
+}
+
+.navbar-brand.brand-ext {
+}
+
+#category-drinks {
+}
+
+.nav-balance {
+  height: 155px;
+  width: 100%;
+}
+
+.modal-footer-row {
+  flex-basis: 100%;
+  height: 40px;
+}
+
+#modal-footer-text {
+  flex-wrap: wrap;
+}
+
+.form-control.register-name {
+  max-width: 200px;
+}
+
+.outer-circle-picture {
+  background: rgb(232,232,232);
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.inner-camera-picture {
+  background: url("../../assets/img/Icons/system/camera-solid.svg") center / cover no-repeat;
+  height: 50px;
+  width: 50px;
+  color: rgb(255,255,255);
+}
+
+#btn-login {
+  text-transform: uppercase;
+  margin-top: 140px;
+}
+
+#terms-conditions {
+  font-size: 13px;
+  padding-left: 19px;
+  font-style: italic;
+}
+
+#modal-title-terms {
+  padding-left: 0px;
+  padding-top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

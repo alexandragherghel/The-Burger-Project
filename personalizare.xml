@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<personalizare>
+    
+<produs>
+        <titlu>The pizza</titlu>
+
+        <ingredient>
+            <nume>Blat</nume>
+            <optiuni>
+                <denumire>Blat clasic</denumire>
+                <pret>30</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Blat pufos</denumire>
+                <pret>20</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Blat cu margine de cascaval</denumire>
+                <pret>20</pret>
+            </optiuni>
+        </ingredient>
+        
+<ingredient>
+            <nume>Carne</nume>
+            <optiuni>
+                <denumire>sunca presata</denumire>
+                <pret>6</pret>
+            </optiuni>
+        <optiuni><denumire>bacon</denumire><pret>6</pret></optiuni><optiuni><denumire>ingredient</denumire><pret>6</pret></optiuni><optiuni><denumire>salam</denumire><pret>6</pret></optiuni></ingredient></produs><produs>
+        <titlu>The burger</titlu>
+        <ingredient>
+            <nume>Bun</nume>
+            <optiuni>
+                <denumire>Classic bun</denumire>
+                <pret>5</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Sesame bun</denumire>
+                <pret>7</pret>
+            </optiuni>
+        </ingredient>
+
+        <ingredient>
+            <nume>Meat</nume>
+            <optiuni>
+                <denumire>Beef</denumire>
+                <pret>30</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Breaded chicken fillets</denumire>
+                <pret>20</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Grilled chicken fillets</denumire>
+                <pret>20</pret>
+            </optiuni>
+        </ingredient>
+
+        <ingredient>
+            <nume>Sauce</nume>
+            <optiuni>
+                <denumire>Garlic sauce</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Mayonnaise sauce</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Ketchup</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Tartar sauce</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Sriracha sauce</denumire>
+                <pret>6</pret>
+            </optiuni>
+        </ingredient>
+
+        <ingredient>
+            <nume>Topping</nume>
+            <optiuni>
+                <denumire>Tomatoes</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Cucumbers</denumire>
+                <pret>2</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Pickles</denumire>
+                <pret>4</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Caramelized onions</denumire>
+                <pret>2</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Crispy bacon</denumire>
+                <pret>10</pret>
+            </optiuni>
+        </ingredient>
+
+        <ingredient>
+            <nume>Salad</nume>
+            <optiuni>
+                <denumire>Lettuce</denumire>
+                <pret>1</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Red leaf lettuce</denumire>
+                <pret>1</pret>
+            </optiuni>
+        </ingredient>
+
+        <ingredient>
+            <nume>Cheese</nume>
+            <optiuni>
+                <denumire>Cheddar cheese</denumire>
+                <pret>8</pret>
+            </optiuni>
+            <optiuni>
+                <denumire>Dorblu Cheese</denumire>
+                <pret>12</pret>
+            </optiuni>
+         </ingredient>
+
+</produs></personalizare>

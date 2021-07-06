@@ -1,0 +1,160 @@
+.order-product-name {
+  text-transform: uppercase;
+}
+
+.no-table-order {
+  text-align: right;
+}
+
+.opnh {
+  margin-bottom: 0px;
+}
+
+#itd-header {
+  position: sticky!important;
+  top: 70px;
+  background: #ffffff;
+  z-index: 1000;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.acc-details-title {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.row.header-padding {
+  margin-bottom: 25px;
+}
+
+.btn-custom2 {
+  height: 50px;
+  width: 120px;
+  border-radius: 0px;
+  text-transform: uppercase;
+  background-color: transparent!important;
+  color: gray!important;
+}
+
+.container.wrapper-fix {
+  padding-top: 87px;
+  padding-bottom: 55px;
+}
+
+html, body {
+  height: 100%!important;
+}
+
+#holder {
+  min-height: 100%;
+  margin-bottom: -95px;
+  padding-bottom: 95px;
+}
+
+.container.fixed-bottv4 {
+  min-height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-usertypes {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-row.form-row-edit {
+  margin-bottom: 10px;
+}
+
+.new-section2 {
+  margin-top: 25px;
+}
+
+.new-section {
+  margin-top: 10px;
+}
+
+.col-form-label.modified-label {
+  font-size: 14px;
+}
+
+@media (min-width: 576px) {
+  .col-form-label.modified-label {
+    font-size: 16px;
+  }
+}
+
+.btn.btn-primary.btn-custom3 {
+  background-color: rgb(241,241,241);
+  border-radius: 0px;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 15px 20px;
+}
+
+.col.submit-col {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.title-section-padding {
+  padding-top: calc(.375rem + 1px);
+  padding-bottom: calc(.375rem + 1px);
+  margin-bottom: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.col.col-md-4.col-12.section-margin {
+  margin-bottom: 5px;
+}
+
+@media (min-width: 768px) {
+  .col.col-md-4.col-12.section-margin {
+    margin-bottom: 0px;
+  }
+}
+
+.form-control.form-2 {
+  width: 90%;
+}
+
+.title-of-the-page {
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-top: 70px;
+  text-transform: uppercase;
+}
+
+#section-title {
+  text-align: center;
+  margin-top: 76px;
+  margin-bottom: 10px;
+}
+
+.row.first-row {
+  margin-top: 20px;
+}
+
+.form-class {
+  padding-bottom: 120px;
+}
+
+.form-row.first-row {
+  margin-top: 20px;
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  background-color: #eee;
+}
+
+#welcome-text {
+  margin-top: 45px;
+}
+
